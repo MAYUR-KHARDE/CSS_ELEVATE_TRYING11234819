@@ -140,10 +140,10 @@ body {
 .vertical-text {
   position: absolute;
   left: -5%;
-  bottom: 0;
+  bottom: 15%;
   /* background-color: aqua; */
   rotate: -90deg;
   transform-origin: 0 0;
-  font-size: 20px;
-  font-weight: 100;
+  font-size: 30px;
+  font-weight: 800;
 }
